@@ -6,4 +6,4 @@ To be able to use this program, execute this command (while you're in the projec
 $ cargo run --release
 ```
 
-If the output says that command `cargo` was not found or something like that, you need to install Rust. You can do that by following the official guide on how to install Rust (rustup).
+If the output says "command `cargo` was not found" or something like that, you need to install Rust. To do that, you can follow the official guide on how to install Rust (rustup) [here](https://doc.rust-lang.org/book/ch01-01-installation.html)
